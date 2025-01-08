@@ -1,0 +1,2 @@
+# wine_quality_classifier
+Многоклассовая классификация вин
